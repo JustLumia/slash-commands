@@ -44,6 +44,10 @@ public final class SlashClient {
     public SlashCommand getCommand(String tag) {
         return registry.getCommand(tag);
     }
+    
+    public CommandRegistry getRegistry() {
+        return registry;
+    }
 
     /* Nested Classes */
 
