@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+/*
+ * Modified by JustLumia to add a getter for CommandRegistry. (Date: 30.10.21)
+ */
 package net.azzerial.slash;
 
 import net.azzerial.slash.internal.CommandRegistry;
